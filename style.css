@@ -1,0 +1,30 @@
+.library_mainDiv{
+border: 1px solid cornflowerblue;
+padding-left: 0px;
+padding-right: 0px;
+float: none;
+}
+.library_mainDiv img{
+    width: 100%;
+}
+.library_mainDiv hr{
+    width: 230px;
+}
+.page-header{
+    background-color: black;
+}
+.text-capitalize{
+    color: antiquewhite;
+}
+.movies_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    
+}
+.movies_head i{
+    float: right;
+}
